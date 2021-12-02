@@ -132,3 +132,10 @@ header ul li a:hover,
         transform: translateY(100px);
     }
 }
+.copyrightText
+{
+    position: absolute;
+    bottom: 30px;
+    left: 50px;
+    color: #8a2435;
+}
